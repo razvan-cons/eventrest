@@ -7,6 +7,7 @@ API for searching and managing music, sports, art and many other type of events
 - AWS (Elastic Beanstalk & RDS MySql database)
 - JDBC
 - Tomcat 8.5
+- JSON
 
  # Testing URLS:
  
