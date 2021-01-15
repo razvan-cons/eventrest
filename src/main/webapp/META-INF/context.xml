@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Context>
+	<Resource name="jdbc/aws/rds/events"
+		     factory="org.apache.tomcat.jdbc.pool.DataSourceFactory"
+			 maxIdle="2"
+             maxTotal="20"
+             maxWaitMillis="5000"
+			 auth="Container"
+			 driverClassName="com.mysql.cj.jdbc.Driver"
+			 type="javax.sql.DataSource"
+			 username="admin"
+			 password="y5di0hCgdAVB9915Y3SH"
+			 url="jdbc:mysql://database-1.cn6ntgbwi9xh.eu-west-1.rds.amazonaws.com:3306"/>
+</Context>
