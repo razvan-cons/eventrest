@@ -1,5 +1,5 @@
 # eventrest
-EventRest API for searching and managing events
+EventRest API for searching and managing music, sports, art and many other type of events
 
 - Java 8
 - Maven
@@ -22,3 +22,8 @@ EventRest API for searching and managing events
  
  - CRUD for Events and Categories (client such as Postman needed for testing POST, PUT, DELETE)
  - Stored procedure dbo.get_event_breadcrumb to quickly get an event breadcrumb/category path: https://github.com/razvan-cons/eventrest/blob/main/src/scripts/initdatabase.sql
+ 
+ # Improvements (ToDo's)
+ 
+ - Apply security to the API (users, secrets, permissions)
+ - Add unit testing jUnit to the services
