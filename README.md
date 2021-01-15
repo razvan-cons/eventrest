@@ -1,5 +1,5 @@
-# eventrest
-EventRest API for searching and managing music, sports, art and many other type of events
+# EventRest API SH POC
+API for searching and managing music, sports, art and many other type of events
 
 - Java 8
 - Maven
