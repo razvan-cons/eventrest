@@ -29,4 +29,6 @@ API for searching and managing music, sports, art and many other type of events
  # Improvements (ToDo's)
  
  - Apply security to the API (users, secrets, permissions)
+ - Improve POST and PUT operations
+ - Make DELETE operation soft delete
  - Add unit testing jUnit to the services
