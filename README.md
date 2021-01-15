@@ -1,6 +1,8 @@
 # EventRest API SH POC
 API for searching and managing music, sports, art and many other type of events
 
+![JSON Response](https://image.prntscr.com/image/-H4DKe3rTHuwlFRD2qanqA.png)
+
 - Java 8
 - Maven
 - JAX-RS
