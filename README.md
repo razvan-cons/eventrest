@@ -32,3 +32,4 @@ API for searching and managing music, sports, art and many other type of events
  - Improve POST and PUT operations
  - Make DELETE operation soft delete
  - Add unit testing jUnit to the services
+ - Add a front-end client (Angular) to consume the API
